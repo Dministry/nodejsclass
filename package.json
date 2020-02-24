@@ -1,0 +1,30 @@
+{
+  "name": "nodejsclass",
+  "version": "1.0.0",
+  "description": "learning nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dministry/nodejsclass.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mysql"
+  ],
+  "author": "dministry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dministry/nodejsclass/issues"
+  },
+  "homepage": "https://github.com/Dministry/nodejsclass#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
